@@ -2,7 +2,7 @@
 
 Here, you can find my version of the python challenges on HackerRank
 
-![Photo ranking](test.png)
+![Photo ranking](photo_ranking.png)
 
 Here some links:
  - [HackerRank link](https://www.hackerrank.com/domains/python/)
